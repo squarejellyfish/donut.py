@@ -1,10 +1,8 @@
 # donut.c in Python
-[🇹🇼 zh-tw](./README.md) &emsp; [🇺🇸 en](./README.en.md)  
+![donut](https://i.imgur.com/6IbUZ43.gif)
 
-![donut](https://i.imgur.com/6IbUZ43.gif)  
-這是一個用Python寫的donut.c  
-donut.c為Andy Sloane在2006年寫的一個原始碼形狀是甜甜圈、能夠在終端機呈現一個旋轉甜甜圈的程式  
-原donut.c原始碼如下：
+This is a implementaion of donut.c in Python.    
+The original donut.c is by Andy Sloane in 2006, it looks like this:
 ```c
              k;double sin()
          ,cos();main(){float A=
@@ -28,17 +26,15 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
          .,~~;;;========;;;:~-.
              ..,--------,*/
 ```
-酷吧酷吧  
-他在2011年寫了一篇文件解釋背後的原理，我就是照著這篇寫出donut.py的:  
+He explained everything in the following site:
 https://www.a1k0n.net/2011/07/20/donut-math.html
-Maybe我之後會翻譯？  
-# 下載：
-先安裝numpy：
+# Downloads
+You'll need numpy:
 ```
 pip3 install numpy
 ```
-然後複製我的donut.py文件後，在主控台打：
+And just copy the donut.py file, and run by:
 ```
 python3 donut.py
 ```
-靜靜觀賞這美麗的甜甜圈吧
+Enjoy the spinning donut.
