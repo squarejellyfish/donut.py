@@ -1,4 +1,6 @@
 # donut.c in Python
+[🇹🇼 zh-tw](./README.md) &emsp; [🇺🇸 en](./README.en.md)  
+
 ![donut](https://i.imgur.com/6IbUZ43.gif)
 
 This is a implementaion of donut.c in Python.    
