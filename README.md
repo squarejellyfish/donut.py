@@ -1,5 +1,6 @@
 # donut.c in Python
 ![donut](https://i.imgur.com/6IbUZ43.gif)
+
 This is a implementaion of donut.c in Python.
 The original donut.c is by Andy Sloane in 2006, it looks like this:
 ```c
