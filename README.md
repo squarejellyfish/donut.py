@@ -30,7 +30,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 ```
 酷吧酷吧  
 他在2011年寫了一篇文件解釋背後的原理，我就是照著這篇寫出donut.py的:  
-https://www.a1k0n.net/2011/07/20/donut-math.html
+https://www.a1k0n.net/2011/07/20/donut-math.html   
 Maybe我之後會翻譯？  
 # 下載：
 先安裝numpy：
